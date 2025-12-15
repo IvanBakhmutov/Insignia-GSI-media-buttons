@@ -7,3 +7,4 @@ Inspired by https://github.com/wagiminator/CH552-MacroPad-plus with some tweaks
 
 ![photo_2025-03-28_17-04-43.jpg](photo_2025-03-28_17-04-43.jpg)
 ![photo_2025-03-28_17-03-48.jpg](photo_2025-03-28_17-03-48.jpg)
+![PXL_20250416_113304881.jpg](PXL_20250416_113304881.jpg)
