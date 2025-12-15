@@ -1,0 +1,324 @@
+{
+  "path": "Offline/Insignia GSI media buttons",
+  "foldername": "Insignia GSI media buttons",
+  "name": "Insignia GSI media buttons",
+  "title": "Insignia GSI media buttons",
+  "uuid": "ee251fc14cf433f3775c11834d26e02d",
+  "created_at": "2025-03-25 13:44:49",
+  "updated_at": "2025-03-28 18:38:56",
+  "documents": [
+    {
+      "uuid": "b4530c77f1743e6b8652f7ed7541bfd8",
+      "title": "Schematic",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1743183536,
+      "createTime": 1742905360,
+      "histories": [],
+      "created_at": "2025-03-25 13:22:40",
+      "updated_at": "2025-03-28 18:38:56",
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "10uF",
+          1,
+          "C0603",
+          "C1",
+          {
+            "Manufacturer Part": "CL10A106KP8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C19702"
+          }
+        ],
+        [
+          "100nF",
+          6,
+          "C0603",
+          "C2,C3,C4,C5,C6,C7",
+          {
+            "Manufacturer Part": "CC0603KRX7R9BB104",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C14663"
+          }
+        ],
+        [
+          "XL-1608UWC-04",
+          8,
+          "LED0603-RD_WHITE",
+          "LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8",
+          {
+            "Manufacturer Part": "XL-1608UWC-04",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C965808"
+          }
+        ],
+        [
+          "120Ω",
+          8,
+          "R0603",
+          "R1,R2,R3,R4,R5,R6,R7,R8",
+          {
+            "Manufacturer Part": "0603WAF1200T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C22787"
+          }
+        ],
+        [
+          "10kΩ",
+          1,
+          "R0603",
+          "R9",
+          {
+            "Manufacturer Part": "0603WAF1002T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25804"
+          }
+        ],
+        [
+          "btn",
+          8,
+          "KEY-SMD_4P-L4.5-W4.5-P3.00-LS6.5-TL",
+          "SW1,SW2,SW3,SW4,SW5,SW6,SW11,SW12",
+          {
+            "Manufacturer Part": "PTS647SN50SMTR2LFS",
+            "Manufacturer": "C&K",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2799414"
+          }
+        ],
+        [
+          "Rotary switch",
+          1,
+          "SW-TH_PEC11R-4XXXF-SXXXX",
+          "SW9",
+          {
+            "Manufacturer Part": "PEC11R-4015F-S0024",
+            "Manufacturer": "BOURNS",
+            "Supplier": "LCSC",
+            "Supplier Part": "C143789"
+          }
+        ],
+        [
+          "TS-1185-C-A-B-B",
+          1,
+          "SW-SMD_L4.0-W2.9-LS5.0",
+          "SW10",
+          {
+            "Manufacturer Part": "TS-1185-C-A-B-B",
+            "Manufacturer": "XKB Connectivity(中国星坤)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C465999"
+          }
+        ],
+        [
+          "CH552G",
+          1,
+          "SOP-16_L10.0-W3.9-P1.27-LS6.0-BL",
+          "U1",
+          {
+            "Manufacturer Part": "CH552G",
+            "Manufacturer": "WCH(南京沁恒)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C111292"
+          }
+        ],
+        [
+          "USB-A female",
+          1,
+          "USB-A-TH_917-511A1015B20200",
+          "USB1",
+          {
+            "Manufacturer Part": "917-511A1015B20200",
+            "Manufacturer": "精拓金",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2763393"
+          }
+        ]
+      ],
+      "components": {
+        "5b8e99841ffe4fcebbfa2d5de7155964": 1,
+        "5452e92f9c0847a2a98f4cc19ad37c15": 1,
+        "33840d78b60f4ae4934c62d822c83426": 1,
+        "3d033fcb6d334c25b65a754834cf5aaf": 1,
+        "d77fa54a78b74c04ba858b4ae8e65118": 8,
+        "154b66255b01a09bf1c88bb1ea89be78": 6,
+        "d385679713b34a44aa31bb0f0d36cdb1": 1,
+        "b210af5a1436310a86e8b108e2e5a90b": 1,
+        "2e22ba5c32f665d34776efb9d595e83b": 8,
+        "c8b1112d336e417892f4b580a5cf7a3d": 8
+      }
+    },
+    {
+      "uuid": "ae15aae65449b38900ad0c096906d91b",
+      "puuid": "ee251fc14cf433f3775c11834d26e02d",
+      "title": "PCB_Insignia GSI media buttons",
+      "filename": "PCB_Insignia GSI media buttons.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "398691f1f785460098bbe5ee6590333c": 9,
+        "1fbc048b08b444b1a3f51c0acdd73c97": 8,
+        "77fbb25425be4a41b080944c96357ff7": 1,
+        "998710542d1d467d97eb0d37e437cd9f": 8,
+        "f8151fdc728a41ebbc304e11d39e5437": 7,
+        "54b9ab7aebe5456bbc9f2879b8d360ff": 1,
+        "bf1b7b0953d842979fbb5acfa9df7d18": 1,
+        "00d0f45a243149aaa0d37fdc769d4db6": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "10uF",
+          1,
+          "C0603",
+          "C1",
+          {
+            "Manufacturer Part": "CL10A106KP8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C19702"
+          }
+        ],
+        [
+          "100nF",
+          6,
+          "C0603",
+          "C2,C3,C4,C5,C6,C7",
+          {
+            "Manufacturer Part": "CC0603KRX7R9BB104",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C14663"
+          }
+        ],
+        [
+          "XL-1608UWC-04",
+          8,
+          "LED0603-RD_WHITE",
+          "LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8",
+          {
+            "Manufacturer Part": "XL-1608UWC-04",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C965808"
+          }
+        ],
+        [
+          "100Ω",
+          8,
+          "R0603",
+          "R1,R2,R3,R4,R5,R6,R7,R8",
+          {
+            "Manufacturer Part": "RC0603FR-07100RL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C105588"
+          }
+        ],
+        [
+          "10kΩ",
+          1,
+          "R0603",
+          "R9",
+          {
+            "Manufacturer Part": "0603WAF1002T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25804"
+          }
+        ],
+        [
+          "Key switch",
+          8,
+          "SW-SMD_SMK_JPM1040-XXXXFC",
+          "SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8",
+          {
+            "Manufacturer Part": "JPM1040-2013FC",
+            "Manufacturer": "SMK",
+            "Supplier": "LCSC",
+            "Supplier Part": "C516061"
+          }
+        ],
+        [
+          "Rotary switch",
+          1,
+          "SW-TH_PEC11R-4XXXF-SXXXX",
+          "SW9",
+          {
+            "Manufacturer Part": "PEC11R-4015F-S0024",
+            "Manufacturer": "BOURNS",
+            "Supplier": "LCSC",
+            "Supplier Part": "C143789"
+          }
+        ],
+        [
+          "TS-1185-C-A-B-B",
+          1,
+          "SW-SMD_L4.0-W2.9-LS5.0",
+          "SW10",
+          {
+            "Manufacturer Part": "TS-1185-C-A-B-B",
+            "Manufacturer": "XKB Connectivity(中国星坤)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C465999"
+          }
+        ],
+        [
+          "CH552G",
+          1,
+          "SOP-16_L10.0-W3.9-P1.27-LS6.0-BL",
+          "U1",
+          {
+            "Manufacturer Part": "CH552G",
+            "Manufacturer": "WCH(南京沁恒)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C111292"
+          }
+        ],
+        [
+          "USB-A female",
+          1,
+          "USB-A-TH_917-511A1015B20200",
+          "USB1",
+          {
+            "Manufacturer Part": "917-511A1015B20200",
+            "Manufacturer": "精拓金",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2763393"
+          }
+        ]
+      ],
+      "updateTime": 1743179854,
+      "createTime": 1742911373,
+      "histories": [],
+      "created_at": "2025-03-25 15:02:53",
+      "updated_at": "2025-03-28 17:37:34"
+    }
+  ],
+  "content": "",
+  "stick": "",
+  "sort": [],
+  "schfilename": "Insignia GSI media buttons.json",
+  "schfilemtime": 1743183536196
+}
